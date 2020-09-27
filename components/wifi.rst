@@ -233,6 +233,8 @@ This :ref:`Condition <config-condition>` checks if the WiFi client is currently 
 See Also
 --------
 
+- :doc:`sensor/wifi_signal`
+- :doc:`text_sensor/wifi_info`
 - :doc:`captive_portal`
 - :apiref:`wifi/wifi_component.h`
 - :ghedit:`Edit`
